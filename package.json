@@ -1,0 +1,23 @@
+{
+  "name": "wasitiyyah.com",
+  "version": "1.0.0",
+  "description": "A blog of my notes on the dīn.",
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zp4rker/wasitiyyah.com.git"
+  },
+  "author": "abulujayn",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zp4rker/wasitiyyah.com/issues"
+  },
+  "homepage": "https://github.com/zp4rker/wasitiyyah.com#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
