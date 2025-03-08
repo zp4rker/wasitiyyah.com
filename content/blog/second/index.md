@@ -1,7 +1,7 @@
 ---
 title: Second post
 tags:
-- post
+- posts
 ---
 
 > This is a quote

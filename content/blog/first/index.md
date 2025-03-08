@@ -1,7 +1,7 @@
 ---
 title: First post
 tags:
-- post
+- posts
 ---
 
 # This is a header
